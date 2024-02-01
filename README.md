@@ -27,7 +27,7 @@ Diversification
 * IJCNN 2022 (accepted): Chen Y, Yang W, Zhang T, et al. Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems[C]//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7.
 
 ## Contacts
-* Email: chenyiqun990321@{ruc.edu.cn, gamil.com}
+* Email: chenyiqun990321@{ruc.edu.cn, gmail.com}
 * Wechat: 13853687820
 
 ## Internships
