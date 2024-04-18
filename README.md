@@ -30,19 +30,19 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## News
 
-* 2024.4: One first-author paper is accepted by IJCAI 2024.
-* 2023.9: I will join Remin University of China to pursue my Ph.D.
+* 2024.4: One first-author paper is accepted by **IJCAI 2024**.
+* 2023.9: I will join **Remin University of China** to pursue my Ph.D.
 
 ## Publications
 
-* IJCAI 2024 (accepted): Chen Y, Mao H, Zhang T, et al. Ptde: Personalized training with distillated execution for multi-agent reinforcement learning[J]. arXiv preprint arXiv:2210.08872, 2022.
-* AAMAS 2024 (accepted): Mao H, Zhao R, Li Z, et al. PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning[J]. arXiv preprint arXiv:2312.15863, 2023.
-* ICONIP 2022 (accepted): Zhang B, Xu Z, Chen Y, et al. Multi-Agent Hyper-Attention Policy Optimization[C]//International Conference on Neural Information Processing. Cham: Springer International Publishing, 2022: 76-87.
-* ICONIP 2022 (accepted): Yang W, Chen Y, Sun J, et al. Deep Global and Local Matching Network for Implicit Recommendation[C]//International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2022: 313-324.
-* IJCNN 2022 (accepted): Chen Y, Yang W, Zhang T, et al. Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems[C]//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7.
+* **IJCAI 2024** (accepted): **Chen Y**, Mao H, Zhang T, et al. Ptde: Personalized training with distillated execution for multi-agent reinforcement learning[J]. arXiv preprint arXiv:2210.08872, 2022.
+* **AAMAS 2024** (accepted): Mao H, Zhao R, Li Z, **Chen Y**, et al. PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning[J]. arXiv preprint arXiv:2312.15863, 2023.
+* **ICONIP 2022** (accepted): Zhang B, Xu Z, **Chen Y**, et al. Multi-Agent Hyper-Attention Policy Optimization[C]//International Conference on Neural Information Processing. Cham: Springer International Publishing, 2022: 76-87.
+* **ICONIP 2022** (accepted): Yang W, **Chen Y**, Sun J, et al. Deep Global and Local Matching Network for Implicit Recommendation[C]//International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2022: 313-324.
+* **IJCNN 2022** (accepted): **Chen Y**, Yang W, Zhang T, et al. Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems[C]//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7.
 
 ## Preprints
-* NeurIPS 2024 (submitted): Chen Y, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. arXiv preprint arXiv:2403.17421, 2024.
+* **NeurIPS** 2024 (submitted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. arXiv preprint arXiv:2403.17421, 2024.
 
 ## Contacts
 * Email: chenyiqun990321@{ruc.edu.cn, gmail.com}
