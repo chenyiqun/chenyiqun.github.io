@@ -16,6 +16,7 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## News
 
+* 2024.4: One first-author paper is accepted by IJCAI 2024.
 * 2023.9: I will join Remin University of China to pursue my Ph.D.
 
 ## Publications
