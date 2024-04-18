@@ -16,8 +16,9 @@ If you are interested in my research or experience, please feel free to contact 
 ## Contacts
 * Email: chenyiqun990321@{ruc.edu.cn, gmail.com}
 * Wechat: 13853687820
+* Twitter: [@chenyiqun223336](https://twitter.com/search?q=%40chenyiqun223336&src=typed_query)
 
-## Education
+## Educations
 
 ### Doctoral (Prospective):
 - **Ph.D. Candidate in Artificial Intelligence**
