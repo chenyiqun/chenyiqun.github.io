@@ -2,6 +2,7 @@
 
 <div align="center">
     <img src="personal_picture.jpg" alt="Yiqun Chen" width="300">
+    <figcaption>A Handsome Snapshot of My Equestrian Adventure</figcaption>
 </div>
 
 ## About me
