@@ -17,7 +17,24 @@ If you are interested in my research or experience, please feel free to contact 
 
 * 2023.9~2027.6: Remim University of China (RUC), Gaoling School of Artificial Intelligence (GSAI)
 * 2020.9~2023.6: Institute of Automation, Chinese Academy of Sciences (CASIA)
-* 2016.9~2020.6: Shandong University (SDU)
+* 2016.9~2020.6: B.Sc., [Your Major], Shandong University (SDU)
+
+## Education
+
+### Doctoral (Prospective):
+- **Ph.D. Candidate in Artificial Intelligence**
+  - Gaoling School of Artificial Intelligence (GSAI), Remim University of China (RUC)
+  - 2023 - 2027
+
+### Master's:
+- **M.Sc. in [Your Major or Field of Study]**
+  - Institute of Automation, Chinese Academy of Sciences (CASIA)
+  - 2020 - 2023
+
+### Undergraduate:
+- **B.Sc. in [Your Major]**
+  - Shandong University (SDU)
+  - 2016 - 2020
 
 ## News
 
