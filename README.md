@@ -1,5 +1,7 @@
 # Welcome to Yiqun Chen's homepage
 
+![](personal_picture.jpg)
+
 ## About me
 
 My name is Yiqun Chen (陈逸群, in Chinese). Currently, I am pursuing my Ph.D. at the Gaoling School of Artificial Intelligence, Renmin University of China, under the guidance of Professor [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). Before this, I earned my Master’s degree from the Institute of Automation, Chinese Academy of Sciences, and my Bachelor’s degree from Shandong University. 
