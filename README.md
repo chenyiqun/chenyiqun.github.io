@@ -13,12 +13,6 @@ My research interests lie in Information Retrieval, including the Search Result 
 
 If you are interested in my research or experience, please feel free to contact me.
 
-## Educations
-
-* 2023.9~2027.6: Remim University of China (RUC), Gaoling School of Artificial Intelligence (GSAI)
-* 2020.9~2023.6: Institute of Automation, Chinese Academy of Sciences (CASIA)
-* 2016.9~2020.6: B.Sc., [Your Major], Shandong University (SDU)
-
 ## Education
 
 ### Doctoral (Prospective):
@@ -27,12 +21,12 @@ If you are interested in my research or experience, please feel free to contact 
   - 2023 - 2027
 
 ### Master's:
-- **M.Sc. in [Your Major or Field of Study]**
+- **M.Sc. in Pattern Recognition and Intelligent Systems**
   - Institute of Automation, Chinese Academy of Sciences (CASIA)
   - 2020 - 2023
 
 ### Undergraduate:
-- **B.Sc. in [Your Major]**
+- **B.Sc. in Automation**
   - Shandong University (SDU)
   - 2016 - 2020
 
