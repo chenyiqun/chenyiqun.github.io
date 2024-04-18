@@ -13,6 +13,10 @@ My research interests lie in Information Retrieval, including the Search Result 
 
 If you are interested in my research or experience, please feel free to contact me.
 
+## Contacts
+* Email: chenyiqun990321@{ruc.edu.cn, gmail.com}
+* Wechat: 13853687820
+
 ## Education
 
 ### Doctoral (Prospective):
@@ -44,15 +48,16 @@ If you are interested in my research or experience, please feel free to contact 
 ## Preprints
 * **NeurIPS** 2024 (submitted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. arXiv preprint arXiv:2403.17421, 2024.
 
-## Contacts
-* Email: chenyiqun990321@{ruc.edu.cn, gmail.com}
-* Wechat: 13853687820
-
 ## Internships
 
 * 2023.5~now: Baidu Inc.
 * 2022.4~2022.9: Huawei Noah's Ark Lab
 * 2021.4~2021.7: DiDi Chuxing
 
-
+## Awards
+* 2023, Merit Student, University of Chinese Academy of Sciences
+* 2020, Outstanding Graduates, Shandong Province
+* 2018-2019, SAMSUNG Scholarship (only 10 recipients school-wide)
+* 2017-2019, National Scholarship, Ministry of Education (2 times)
+* 2016-2019, First-class Scholarship, Shandong University (3 times)
 
