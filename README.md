@@ -1,6 +1,8 @@
 # Welcome to Yiqun Chen's homepage
 
-![](personal_picture.jpg)
+<div align="center">
+    <img src="personal_picture.jpg" alt="Yiqun Chen" width="100">
+</div>
 
 ## About me
 
