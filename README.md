@@ -50,6 +50,7 @@ If you are interested in my research or experience, please feel free to contact 
 ## Preprints
 * **NeurIPS 2024** (submitted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. arXiv preprint arXiv:2403.17421, 2024.
 * **EMNLP 2024** (submitted):  **Chen Y**, Qi L, el al. TourRank: Utilizing Large Language Models for Re-Ranking with a Tournament-Inspired Strategy
+* **MM 2024** (submitted): Yang W, **Chen Y**, et al. Bidirectional Cross-modal State Space Model with Self-distillation for Sequential Recommendation
 
 ## Internships
 
