@@ -24,10 +24,12 @@ If you are interested in my research or experience, please feel free to contact 
 - **Ph.D. Candidate in Artificial Intelligence**
   - Gaoling School of Artificial Intelligence (GSAI), Remim University of China (RUC)
   - 2023 - 2027
+
 ### Master's:
 - **M.Sc. in Pattern Recognition and Intelligent Systems**
   - Institute of Automation, Chinese Academy of Sciences (CASIA)
   - 2020 - 2023
+
 ### Undergraduate:
 - **B.Sc. in Automation**
   - Shandong University (SDU)
@@ -49,7 +51,7 @@ If you are interested in my research or experience, please feel free to contact 
   
 ## Preprints
 * **NeurIPS 2024** (submitted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. arXiv preprint arXiv:2403.17421, 2024.
-* **EMNLP 2024** (submitted):  **Chen Y**, Qi L, el al. TourRank: Utilizing Large Language Models for Re-Ranking with a Tournament-Inspired Strategy
+* **EMNLP 2024** (submitted):  **Chen Y**, Qi L, el al. Chen Y, Liu Q, Zhang Y, et al. TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy[J]. arXiv preprint arXiv:2406.11678, 2024.
 * **MM 2024** (submitted): Yang W, **Chen Y**, et al. Bidirectional Cross-modal State Space Model with Self-distillation for Sequential Recommendation
 
 ## Internships
