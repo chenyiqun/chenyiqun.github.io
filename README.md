@@ -20,11 +20,6 @@ My research interests lie in:
 
 If you are interested in my research or experience, please feel free to contact me.
 
-## Contacts
-* Email: chenyiqun990321@{ruc.edu.cn, gmail.com}
-* Wechat: [13853687820](https://github.com/chenyiqun/chenyiqun.github.io/blob/main/Wechat.jpg)
-* Twitter: [@chenyiqun223336](https://twitter.com/search?q=%40chenyiqun223336&src=typed_query)
-
 ## Educations
 
 - **Ph.D. Candidate in Artificial Intelligence**
@@ -95,4 +90,9 @@ If you are interested in my research or experience, please feel free to contact 
 * 2018-2019, SAMSUNG Scholarship (only 10 recipients school-wide)
 * 2017-2019, National Scholarship, Ministry of Education (2 times)
 * 2016-2019, First-class Scholarship, Shandong University (3 times)
+
+## Contacts
+* Email: chenyiqun990321@{ruc.edu.cn, gmail.com}
+* Wechat: [13853687820](https://github.com/chenyiqun/chenyiqun.github.io/blob/main/Wechat.jpg)
+* Twitter: [@chenyiqun223336](https://twitter.com/search?q=%40chenyiqun223336&src=typed_query)
 
