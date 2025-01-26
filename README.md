@@ -79,7 +79,7 @@ If you are interested in my research or experience, please feel free to contact 
 ## Preprints
 
 * **Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**  
-  **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao
+  **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao  
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2406.11678)
   
 ## Internships
