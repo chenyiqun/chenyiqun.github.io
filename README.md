@@ -44,8 +44,8 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## Publications
 
-* **NeurIPS 2024** (submitted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. [arxiv](arXiv preprint arXiv:2403.17421, 2024.)
-* **EMNLP 2024** (submitted):  **Chen Y**, Qi L, el al. Chen Y, Liu Q, Zhang Y, et al. TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy[J]. arXiv preprint arXiv:2406.11678, 2024.
+* **WWW 2025** (accepted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. [paper]([URL](https://arxiv.org/pdf/2403.17421))
+* **WWW 2025** (accepted):  **Chen Y**, Qi L, el al. Chen Y, Liu Q, Zhang Y, et al. TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy[J]. arXiv preprint arXiv:2406.11678, 2024.
 * **IJCAI 2024** (accepted): **Chen Y**, Mao H, Zhang T, et al. Ptde: Personalized training with distillated execution for multi-agent reinforcement learning[J]. arXiv preprint arXiv:2210.08872, 2022.
 * **IJCNN 2022** (accepted): **Chen Y**, Yang W, Zhang T, et al. Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems[C]//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7.
 * **ICONIP 2022** (accepted, co-first author): Zhang B, **Chen Y**, et al. Multi-Agent Hyper-Attention Policy Optimization[C]//International Conference on Neural Information Processing. Cham: Springer International Publishing, 2022: 76-87.
