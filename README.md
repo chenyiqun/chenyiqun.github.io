@@ -37,12 +37,15 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## News
 
+* **2025.1**: Two first-author paper is accepted by **WWW 2025**.
 * **2024.4**: One first-author paper is accepted by **IJCAI 2024**.
 * **2023.9**: I will join **Remin University of China** to pursue my Ph.D.
 * **2023.4**: I will join the Search Department of **Baidu Inc.** as an algorithm intern.
 
 ## Publications
 
+* **NeurIPS 2024** (submitted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. [arxiv](arXiv preprint arXiv:2403.17421, 2024.)
+* **EMNLP 2024** (submitted):  **Chen Y**, Qi L, el al. Chen Y, Liu Q, Zhang Y, et al. TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy[J]. arXiv preprint arXiv:2406.11678, 2024.
 * **IJCAI 2024** (accepted): **Chen Y**, Mao H, Zhang T, et al. Ptde: Personalized training with distillated execution for multi-agent reinforcement learning[J]. arXiv preprint arXiv:2210.08872, 2022.
 * **IJCNN 2022** (accepted): **Chen Y**, Yang W, Zhang T, et al. Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems[C]//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7.
 * **ICONIP 2022** (accepted, co-first author): Zhang B, **Chen Y**, et al. Multi-Agent Hyper-Attention Policy Optimization[C]//International Conference on Neural Information Processing. Cham: Springer International Publishing, 2022: 76-87.
@@ -50,8 +53,6 @@ If you are interested in my research or experience, please feel free to contact 
 * **ICONIP 2022** (accepted): Yang W, **Chen Y**, Sun J, et al. Deep Global and Local Matching Network for Implicit Recommendation[C]//International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2022: 313-324.
   
 ## Preprints
-* **NeurIPS 2024** (submitted): **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. arXiv preprint arXiv:2403.17421, 2024.
-* **EMNLP 2024** (submitted):  **Chen Y**, Qi L, el al. Chen Y, Liu Q, Zhang Y, et al. TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy[J]. arXiv preprint arXiv:2406.11678, 2024.
 * **MM 2024** (submitted): Yang W, **Chen Y**, et al. Bidirectional Cross-modal State Space Model with Self-distillation for Sequential Recommendation
 
 ## Internships
