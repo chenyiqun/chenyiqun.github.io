@@ -61,7 +61,7 @@ If you are interested in my research or experience, please feel free to contact 
   **IJCAI 2024** [**_paper_**](https://arxiv.org/pdf/2210.08872)
 
 * **Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems**  
-  **Yiqun Chen**, Wei Yang, Tianle Zhang, Shiguang Wu, Hongxing Chang
+  **Yiqun Chen**, Wei Yang, Tianle Zhang, Shiguang Wu, Hongxing Chang  
   **IJCNN 2022** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
 
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**  
