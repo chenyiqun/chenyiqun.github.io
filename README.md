@@ -20,17 +20,17 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## Educations
 
-### Doctoral (Prospective):
+
 - **Ph.D. Candidate in Artificial Intelligence**
   - Gaoling School of Artificial Intelligence (GSAI), Remim University of China (RUC)
   - 2023 - 2027
 
-### Master's:
+
 - **M.Sc. in Pattern Recognition and Intelligent Systems**
   - Institute of Automation, Chinese Academy of Sciences (CASIA)
   - 2020 - 2023
 
-### Undergraduate:
+
 - **B.Sc. in Automation**
   - Shandong University (SDU)
   - 2016 - 2020
