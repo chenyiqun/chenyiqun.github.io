@@ -49,31 +49,31 @@ If you are interested in my research or experience, please feel free to contact 
 ## Publications
 
 * **MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**  
-  Chen Y, Mao J, Zhang Y, et al.  
+  **Yiqun Chen**, Jiaxin Mao, Yi Zhang, Dehong Ma, Long Xia, Jun Fan, Daiting Shi, Zhicong Cheng, Simiu Gu, Dawei Yin
   **WWW 2025** [**_paper_**](https://arxiv.org/pdf/2403.17421)
 
 * **TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy**  
-  Chen Y, Qi L, et al.  
+  **Yiqun Chen**, Qi Liu, Yi Zhang, Weiwei Sun, Xinyu Ma, Wei Yang, Daiting Shi, Jiaxin Mao, Dawei Yin  
   **WWW 2025** [**_paper_**](https://arxiv.org/pdf/2406.11678)
 
-* **Ptde: Personalized Training with Distillated Execution for Multi-Agent Reinforcement Learning**  
-  Chen Y, Mao H, Zhang T, et al.  
+* **PTDE: Personalized Training with Distilled Execution for Multi-Agent Reinforcement Learning**  
+  **Yiqun Chen**, Hangyu Mao, Jiaxin Mao, Shiguang Wu, Tianle Zhang, Bin Zhang, Wei Yang, Hongxing Chang  
   **IJCAI 2024** [**_paper_**](https://arxiv.org/pdf/2210.08872)
 
 * **Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems**  
-  Chen Y, Yang W, Zhang T, et al.  
+  **Yiqun Chen**, Wei Yang, Tianle Zhang, Shiguang Wu, Hongxing Chang
   **IJCNN 2022** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
 
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**  
-  Mao H, Zhao R, Li Z, Chen Y, et al.  
+  Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, Hao Chen, **Yiqun Chen**, Bin Zhang, Zhen Xiao, Junge Zhang, Jiangjin Yin
   **AAMAS 2024** [**_paper_**](https://arxiv.org/pdf/2312.15863)
 
 * **Multi-Agent Hyper-Attention Policy Optimization**  
-  Zhang B*, Chen Y*, et al.  
+  Bin Zhang*, Zhiwei Xu*, **Yiqun Chen*** (co-first author), Dapeng Li, Yunpeng Bai, Guoliang Fan, Lijuan Li  
   **ICONIP 2022**
 
 * **Deep Global and Local Matching Network for Implicit Recommendation**  
-  Yang W, Chen Y, Sun J, et al.  
+  Wei Yang, **Yiqun Chen**, Jun Sun, Yan Jin 
   **ICONIP 2022**
   
 ## Internships
