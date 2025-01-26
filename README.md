@@ -48,14 +48,13 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## Publications
 
-* **WWW 2025**: **Chen Y**, Mao J, Zhang Y, et al. MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification[J]. [**_paper_**](https://arxiv.org/pdf/2403.17421)
-* **WWW 2025**: **Chen Y**, Qi L, el al. Chen Y, Liu Q, Zhang Y, et al. TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy[J]. [**_paper_**](https://arxiv.org/pdf/2406.11678)
-* **IJCAI 2024**: **Chen Y**, Mao H, Zhang T, et al. Ptde: Personalized training with distillated execution for multi-agent reinforcement learning[J]. [**_paper_**](https://arxiv.org/pdf/2210.08872)
-* **IJCNN 2022**: **Chen Y**, Yang W, Zhang T, et al. Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems[C]//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7. [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
-* **AAMAS 2024**: Mao H, Zhao R, Li Z, **Chen Y**, et al. PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning[J]. [**_paper_**](https://arxiv.org/pdf/2312.15863)
-* **ICONIP 2022**: Zhang B*, **Chen Y***, et al. Multi-Agent Hyper-Attention Policy Optimization[C]//International Conference on Neural Information Processing. Cham: Springer International Publishing, 2022: 76-87.
-* **ICONIP 2022**: Yang W, **Chen Y**, Sun J, et al. Deep Global and Local Matching Network for Implicit Recommendation[C]//International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2022: 313-324.
-
+* **MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**. Chen Y, Mao J, Zhang Y, et al. [**_paper_**](https://arxiv.org/pdf/2403.17421). WWW 2025.
+* **TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy**. Chen Y, Qi L, et al. [**_paper_**](https://arxiv.org/pdf/2406.11678). WWW 2025.
+* **Ptde: Personalized Training with Distillated Execution for Multi-Agent Reinforcement Learning**. Chen Y, Mao H, Zhang T, et al. [**_paper_**](https://arxiv.org/pdf/2210.08872). IJCAI 2024.
+* **Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems**. Chen Y, Yang W, Zhang T, et al. [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view). IJCNN 2022.
+* **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**. Mao H, Zhao R, Li Z, Chen Y, et al. [**_paper_**](https://arxiv.org/pdf/2312.15863). AAMAS 2024.
+* **Multi-Agent Hyper-Attention Policy Optimization**. Zhang B*, Chen Y*, et al. ICONIP 2022.
+* **Deep Global and Local Matching Network for Implicit Recommendation**. Yang W, Chen Y, Sun J, et al. ICONIP 2022.
   
 ## Internships
 
