@@ -11,12 +11,12 @@ My name is Yiqun Chen (陈逸群, in Chinese). Currently, I am pursuing my Ph.D.
 
 My research interests lie in:
 
-- **Retrieval-Augmented Generation (RAG)**
-- **Large Language Models (LLM) for Ranking**
-- **Information Retrieval**
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLM) for Ranking
+- Information Retrieval
   - Search Result Diversification (SRD)
   - Application of Reinforcement Learning for Information Retrieval
-- **Multi-Agent Reinforcement Learning (MARL)**
+- Multi-Agent Reinforcement Learning (MARL)
 
 If you are interested in my research or experience, please feel free to contact me.
 
