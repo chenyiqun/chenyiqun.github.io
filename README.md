@@ -41,8 +41,8 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## News
 
-* **2025.1**: Two first-author paper is accepted by **WWW 2025**.
-* **2024.4**: One first-author paper is accepted by **IJCAI 2024**.
+* **2025.1**: 🎉🎉Two first-author paper is accepted by **WWW 2025**.
+* **2024.4**: 🎉One first-author paper is accepted by **IJCAI 2024**.
 * **2023.9**: I will join **Remin University of China** to pursue my Ph.D.
 * **2023.4**: I will join the Search Department of **Baidu Inc.** as an algorithm intern.
 
@@ -75,6 +75,12 @@ If you are interested in my research or experience, please feel free to contact 
 * **Deep Global and Local Matching Network for Implicit Recommendation**  
   Wei Yang, **Yiqun Chen**, Jun Sun, Yan Jin 
   **ICONIP 2022**
+
+## Preprints
+
+* **Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**  
+  **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao
+  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2406.11678)
   
 ## Internships
 
