@@ -49,7 +49,7 @@ If you are interested in my research or experience, please feel free to contact 
 ## Publications
 
 * **MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**  
-  **Yiqun Chen**, Jiaxin Mao, Yi Zhang, Dehong Ma, Long Xia, Jun Fan, Daiting Shi, Zhicong Cheng, Simiu Gu, Dawei Yin
+  **Yiqun Chen**, Jiaxin Mao, Yi Zhang, Dehong Ma, Long Xia, Jun Fan, Daiting Shi, Zhicong Cheng, Simiu Gu, Dawei Yin  
   **WWW 2025** [**_paper_**](https://arxiv.org/pdf/2403.17421)
 
 * **TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy**  
