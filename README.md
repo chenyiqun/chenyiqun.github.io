@@ -9,7 +9,14 @@
 
 My name is Yiqun Chen (陈逸群, in Chinese). Currently, I am pursuing my Ph.D. at the Gaoling School of Artificial Intelligence, Renmin University of China, under the guidance of Professor [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). Before this, I earned my Master’s degree from the Institute of Automation, Chinese Academy of Sciences, and my Bachelor’s degree from Shandong University. 
 
-My research interests lie in Information Retrieval, including the Search Result Diversification (SRD), the application of Reinforcement Learning for Information Retrieval and Large Language Model for Ranking. Furthermore, I am also have the experience of Multi-Agent Reinforcement Learning (MARL).
+My research interests lie in:
+
+- **Retrieval-Augmented Generation (RAG)**
+- **Large Language Models (LLM) for Ranking**
+- **Information Retrieval**
+  - Search Result Diversification (SRD)
+  - Application of Reinforcement Learning for Information Retrieval
+- **Multi-Agent Reinforcement Learning (MARL)**
 
 If you are interested in my research or experience, please feel free to contact me.
 
