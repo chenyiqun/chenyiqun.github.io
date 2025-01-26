@@ -65,7 +65,7 @@ If you are interested in my research or experience, please feel free to contact 
   **IJCNN 2022** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
 
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**  
-  Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, Hao Chen, **Yiqun Chen**, Bin Zhang, Zhen Xiao, Junge Zhang, Jiangjin Yin
+  Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, Hao Chen, **Yiqun Chen**, Bin Zhang, Zhen Xiao, Junge Zhang, Jiangjin Yin  
   **AAMAS 2024** [**_paper_**](https://arxiv.org/pdf/2312.15863)
 
 * **Multi-Agent Hyper-Attention Policy Optimization**  
@@ -73,7 +73,7 @@ If you are interested in my research or experience, please feel free to contact 
   **ICONIP 2022**
 
 * **Deep Global and Local Matching Network for Implicit Recommendation**  
-  Wei Yang, **Yiqun Chen**, Jun Sun, Yan Jin 
+  Wei Yang, **Yiqun Chen**, Jun Sun, Yan Jin  
   **ICONIP 2022**
 
 ## Preprints
