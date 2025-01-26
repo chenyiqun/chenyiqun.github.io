@@ -15,7 +15,7 @@ My research interests lie in:
 - Large Language Models for Ranking (LLM4Ranking)
 - Information Retrieval (IR)
   - Search Result Diversification (SRD)
-  - Application of Reinforcement Learning for Information Retrieval
+  - Application of Reinforcement Learning for IR
 - Multi-Agent Reinforcement Learning (MARL)
 
 If you are interested in my research or experience, please feel free to contact me.
