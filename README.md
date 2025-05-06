@@ -77,6 +77,10 @@ If you are interested in my research or experience, please feel free to contact 
   **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao  
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2501.15228)
 
+* **LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking**  
+  Qi Liu, Haozhe Duan, **Yiqun Chen**, Quanfeng Lu, Weiwei Sun, Jiaxin Mao
+  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2501.15228)
+
 ## Reviewers
 
 AAMAS 2024, SIGIR-AP 2024, EMNLP 2024, AAMAS 2025, WWW 2025, IJCAI 2025, SIGIR 2025, ACL 2025
