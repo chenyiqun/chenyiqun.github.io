@@ -83,7 +83,7 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## Reviewers
 
-AAMAS 2024, SIGIR-AP 2024, EMNLP 2024, AAMAS 2025, WWW 2025, IJCAI 2025, SIGIR 2025, ACL 2025
+AAMAS 2024, SIGIR-AP 2024, EMNLP 2024, AAMAS 2025, WWW 2025, IJCAI 2025, SIGIR 2025, ACL 2025, MM 2025
   
 ## Internships
 
