@@ -79,11 +79,15 @@ If you are interested in my research or experience, please feel free to contact 
 
 * **LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking**  
   Qi Liu, Haozhe Duan, **Yiqun Chen**, Quanfeng Lu, Weiwei Sun, Jiaxin Mao
-  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2501.15228)
+  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2504.07439?)
+
+* **LLM4Ranking: Leveraging LLMs to Evaluate Usefulness of Document**  
+  Xingzhu Wang, Erhan Zhang, **Yiqun Chen**, Jinghan Xuan, Yucheng Hou, Yitong Xu, Ying Nie, Shuaiqiang Wang, Dawei Yin, Jiaxin Mao
+  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2506.08626)
 
 ## Reviewers
 
-AAMAS 2024, SIGIR-AP 2024, EMNLP 2024, AAMAS 2025, WWW 2025, IJCAI 2025, SIGIR 2025, ACL 2025, MM 2025
+AAMAS 2024, SIGIR-AP 2024, EMNLP 2024, AAMAS 2025, WWW 2025, IJCAI 2025, SIGIR 2025, ACL 2025, MM 2025, EMNLP 2025
   
 ## Internships
 
