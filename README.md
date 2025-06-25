@@ -81,9 +81,13 @@ If you are interested in my research or experience, please feel free to contact 
   Qi Liu, Haozhe Duan, **Yiqun Chen**, Quanfeng Lu, Weiwei Sun, Jiaxin Mao
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2504.07439?)
 
-* **LLM4Ranking: Leveraging LLMs to Evaluate Usefulness of Document**  
+* **Leveraging LLMs to Evaluate Usefulness of Document**  
   Xingzhu Wang, Erhan Zhang, **Yiqun Chen**, Jinghan Xuan, Yucheng Hou, Yitong Xu, Ying Nie, Shuaiqiang Wang, Dawei Yin, Jiaxin Mao
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2506.08626)
+
+* **Towards AI Search Paradigm**  
+  Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, Jiayi Wu, **Yiqun Chen**, Changle Qu, Keyi Kong, Wenwen Ye, Lixin Su, Xinyu Ma, Long Xia, Daiting Shi, Jiashu Zhao, Haoyi Xiong, Shuaiqiang Wang, Dawei Yin
+  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2506.17188)
 
 ## Reviewers
 
