@@ -85,7 +85,7 @@ If you are interested in my research or experience, please feel free to contact 
   Xingzhu Wang, Erhan Zhang, **Yiqun Chen**, Jinghan Xuan, Yucheng Hou, Yitong Xu, Ying Nie, Shuaiqiang Wang, Dawei Yin, Jiaxin Mao
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2506.08626)
 
-* **Towards AI Search Paradigm**  
+* **Towards AI Search Paradigm**  (This paper is a technical report of **Baidu AI Search**.)
   Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, Jiayi Wu, **Yiqun Chen**, Changle Qu, Keyi Kong, Wenwen Ye, Lixin Su, Xinyu Ma, Long Xia, Daiting Shi, Jiashu Zhao, Haoyi Xiong, Shuaiqiang Wang, Dawei Yin
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2506.17188)
 
