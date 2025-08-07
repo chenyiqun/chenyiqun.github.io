@@ -64,11 +64,11 @@ If you are interested in my research or experience, please feel free to contact 
   **IJCNN 2022** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
 
 * **FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning**  
-  Wei Yang, Rui Zhong, **Yiqun Chen**, Shixuan Li, Heng Ping, Chi Lu, Peng Jiang
+  Wei Yang, Rui Zhong, **Yiqun Chen**, Shixuan Li, Heng Ping, Chi Lu, Peng Jiang  
   **MM 2025**
 
 * **Leveraging LLMs to Evaluate Usefulness of Document**  
-  Xingzhu Wang, Erhan Zhang, **Yiqun Chen**, Jinghan Xuan, Yucheng Hou, Yitong Xu, Ying Nie, Shuaiqiang Wang, Dawei Yin, Jiaxin Mao
+  Xingzhu Wang, Erhan Zhang, **Yiqun Chen**, Jinghan Xuan, Yucheng Hou, Yitong Xu, Ying Nie, Shuaiqiang Wang, Dawei Yin, Jiaxin Mao  
   **CIKM 2025** [**_paper_**](https://arxiv.org/pdf/2506.08626)
 
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**  
@@ -94,11 +94,11 @@ If you are interested in my research or experience, please feel free to contact 
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2508.01005)
 
 * **LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking**  
-  Qi Liu, Haozhe Duan, **Yiqun Chen**, Quanfeng Lu, Weiwei Sun, Jiaxin Mao
+  Qi Liu, Haozhe Duan, **Yiqun Chen**, Quanfeng Lu, Weiwei Sun, Jiaxin Mao  
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2504.07439?)
 
 * **Towards AI Search Paradigm**  (This paper is a technical report of **Baidu AI Search**.)  
-  Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, Jiayi Wu, **Yiqun Chen**, Changle Qu, Keyi Kong, Wenwen Ye, Lixin Su, Xinyu Ma, Long Xia, Daiting Shi, Jiashu Zhao, Haoyi Xiong, Shuaiqiang Wang, Dawei Yin
+  Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, Jiayi Wu, **Yiqun Chen**, Changle Qu, Keyi Kong, Wenwen Ye, Lixin Su, Xinyu Ma, Long Xia, Daiting Shi, Jiashu Zhao, Haoyi Xiong, Shuaiqiang Wang, Dawei Yin  
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2506.17188)
 
 ## Reviewers
