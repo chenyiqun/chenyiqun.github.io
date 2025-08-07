@@ -11,6 +11,7 @@ My name is Yiqun Chen (陈逸群, in Chinese). Currently, I am pursuing my Ph.D.
 
 My research interests lie in:
 
+- Deep Research
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models for Ranking (LLM4Ranking)
 - Information Retrieval (IR)
@@ -36,6 +37,9 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## News
 
+* **2025.8**: One paper is accepted by **CIKM 2025**.
+* **2025.7**: One paper is accepted by **MM 2025**.
+* **2025.6**: Our *AI Search Paradigm* paper is publicly available.
 * **2025.1**: 🎉🎉Two first-author paper is accepted by **WWW 2025**.
 * **2024.4**: 🎉One first-author paper is accepted by **IJCAI 2024**.
 * **2023.9**: I will join **Remin University of China** to pursue my Ph.D.
@@ -59,6 +63,14 @@ If you are interested in my research or experience, please feel free to contact 
   **Yiqun Chen**, Wei Yang, Tianle Zhang, Shiguang Wu, Hongxing Chang  
   **IJCNN 2022** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
 
+* **FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning**  
+  Wei Yang, Rui Zhong, **Yiqun Chen**, Shixuan Li, Heng Ping, Chi Lu, Peng Jiang
+  **MM 2025**
+
+* **Leveraging LLMs to Evaluate Usefulness of Document**  
+  Xingzhu Wang, Erhan Zhang, **Yiqun Chen**, Jinghan Xuan, Yucheng Hou, Yitong Xu, Ying Nie, Shuaiqiang Wang, Dawei Yin, Jiaxin Mao
+  **CIKM 2025** [**_paper_**](https://arxiv.org/pdf/2506.08626)
+
 * **PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**  
   Hangyu Mao, Rui Zhao, Ziyue Li, Zhiwei Xu, Hao Chen, **Yiqun Chen**, Bin Zhang, Zhen Xiao, Junge Zhang, Jiangjin Yin  
   **AAMAS 2024** [**_paper_**](https://arxiv.org/pdf/2312.15863)
@@ -77,13 +89,13 @@ If you are interested in my research or experience, please feel free to contact 
   **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao  
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2501.15228)
 
+* **MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation**  
+  **Yiqun Chen**, Erhan Zhang, Lingyong Yan, Shuaiqiang Wang, Jizhou Huang, Dawei Yin, Jiaxin Mao  
+  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2508.01005)
+
 * **LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking**  
   Qi Liu, Haozhe Duan, **Yiqun Chen**, Quanfeng Lu, Weiwei Sun, Jiaxin Mao
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2504.07439?)
-
-* **Leveraging LLMs to Evaluate Usefulness of Document**  
-  Xingzhu Wang, Erhan Zhang, **Yiqun Chen**, Jinghan Xuan, Yucheng Hou, Yitong Xu, Ying Nie, Shuaiqiang Wang, Dawei Yin, Jiaxin Mao
-  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2506.08626)
 
 * **Towards AI Search Paradigm**  (This paper is a technical report of **Baidu AI Search**.)  
   Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, Jiayi Wu, **Yiqun Chen**, Changle Qu, Keyi Kong, Wenwen Ye, Lixin Su, Xinyu Ma, Long Xia, Daiting Shi, Jiashu Zhao, Haoyi Xiong, Shuaiqiang Wang, Dawei Yin
