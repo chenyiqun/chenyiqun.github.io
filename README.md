@@ -57,15 +57,15 @@ If you are interested in my research or experience, please feel free to contact 
 
 * **MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**  
   **Yiqun Chen**, Jiaxin Mao, Yi Zhang, Dehong Ma, Long Xia, Jun Fan, Daiting Shi, Zhicong Cheng, Simiu Gu, Dawei Yin  
-  **WWW 2025 (Oral)** [**_paper_**](https://arxiv.org/pdf/2403.17421)
+  **WWW 2025 (Oral, Rate≈6%)** [**_paper_**](https://arxiv.org/pdf/2403.17421)
 
 * **TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy**  
   **Yiqun Chen**, Qi Liu, Yi Zhang, Weiwei Sun, Xinyu Ma, Wei Yang, Daiting Shi, Jiaxin Mao, Dawei Yin  
-  **WWW 2025 (Oral)** [**_paper_**](https://arxiv.org/pdf/2406.11678)
+  **WWW 2025 (Oral, Rate≈6%)** [**_paper_**](https://arxiv.org/pdf/2406.11678)
 
 * **PTDE: Personalized Training with Distilled Execution for Multi-Agent Reinforcement Learning**  
   **Yiqun Chen**, Hangyu Mao, Jiaxin Mao, Shiguang Wu, Tianle Zhang, Bin Zhang, Wei Yang, Hongxing Chang  
-  **IJCAI 2024 (Oral)** [**_paper_**](https://arxiv.org/pdf/2210.08872)
+  **IJCAI 2024 (Oral, Rate≈14%)** [**_paper_**](https://arxiv.org/pdf/2210.08872)
 
 * **Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems**  
   **Yiqun Chen**, Wei Yang, Tianle Zhang, Shiguang Wu, Hongxing Chang  
