@@ -11,13 +11,16 @@ My name is Yiqun Chen (陈逸群, in Chinese). Currently, I am pursuing my Ph.D.
 
 My research interests lie in:
 
-- Deep Research
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models for Ranking (LLM4Ranking)
+- AI Search
+  - Retrieval-Augmented Generation (RAG)
+  - Agentic Search
+  - Deep Research
 - Information Retrieval (IR)
+  - Large Language Models for Ranking (LLM4Ranking)
   - Search Result Diversification (SRD)
   - Application of Reinforcement Learning for IR
-- Multi-Agent Reinforcement Learning (MARL)
+- Reinforcement Learning
+  - Multi-Agent Reinforcement Learning (MARL)
 
 If you are interested in my research or experience, please feel free to contact me.
 
@@ -37,8 +40,9 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## News
 
-* **2025.8**: One paper is accepted by **CIKM 2025**.
-* **2025.7**: One paper is accepted by **MM 2025**.
+* **2025.9**: 🎉🎉Two papers (One first-author) is accepted by **NeurIPS 2025**.
+* **2025.8**: 🎉One paper is accepted by **CIKM 2025**.
+* **2025.7**: 🎉One paper is accepted by **MM 2025**.
 * **2025.6**: Our *AI Search Paradigm* paper is publicly available.
 * **2025.1**: 🎉🎉Two first-author paper is accepted by **WWW 2025**.
 * **2024.4**: 🎉One first-author paper is accepted by **IJCAI 2024**.
@@ -46,6 +50,10 @@ If you are interested in my research or experience, please feel free to contact 
 * **2023.4**: I will join the Search Department of **Baidu Inc.** as an algorithm intern.
 
 ## Publications
+
+* **Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**  
+  **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao  
+  **NeurIPS 2025** [**_paper_**](https://arxiv.org/pdf/2501.15228)
 
 * **MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**  
   **Yiqun Chen**, Jiaxin Mao, Yi Zhang, Dehong Ma, Long Xia, Jun Fan, Daiting Shi, Zhicong Cheng, Simiu Gu, Dawei Yin  
@@ -62,6 +70,10 @@ If you are interested in my research or experience, please feel free to contact 
 * **Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems**  
   **Yiqun Chen**, Wei Yang, Tianle Zhang, Shiguang Wu, Hongxing Chang  
   **IJCNN 2022** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
+
+* **Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**  
+  Wei Yang, Rui Zhong, **Yiqun Chen**, Chi Lu, Peng Jiang  
+  **NeurIPS 2025**
 
 * **FITMM: Adaptive Frequency-Aware Multimodal Recommendation via Information-Theoretic Representation Learning**  
   Wei Yang, Rui Zhong, **Yiqun Chen**, Shixuan Li, Heng Ping, Chi Lu, Peng Jiang  
@@ -85,10 +97,6 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## Preprints
 
-* **Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**  
-  **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao  
-  **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2501.15228)
-
 * **MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation**  
   **Yiqun Chen**, Erhan Zhang, Lingyong Yan, Shuaiqiang Wang, Jizhou Huang, Dawei Yin, Jiaxin Mao  
   **arXiv 2025** [**_paper_**](https://arxiv.org/pdf/2508.01005)
@@ -103,7 +111,7 @@ If you are interested in my research or experience, please feel free to contact 
 
 ## Reviewers
 
-AAMAS 2024, SIGIR-AP 2024, EMNLP 2024, AAMAS 2025, WWW 2025, IJCAI 2025, SIGIR 2025, ACL 2025, MM 2025, EMNLP 2025, WSDM 2025, AAAI 2026
+AAMAS 2024, SIGIR-AP 2024, EMNLP 2024, AAMAS 2025, WWW 2025, IJCAI 2025, SIGIR 2025, ACL 2025, MM 2025, EMNLP 2025, WSDM 2026, AAAI 2026, AAMAS 2026
   
 ## Internships
 
