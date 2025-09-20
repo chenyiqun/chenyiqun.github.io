@@ -69,7 +69,7 @@ If you are interested in my research or experience, please feel free to contact 
 
 * **Commander-Soldiers Reinforcement Learning for Cooperative Multi-Agent Systems**  
   **Yiqun Chen**, Wei Yang, Tianle Zhang, Shiguang Wu, Hongxing Chang  
-  **IJCNN 2022** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
+  **IJCNN 2022 (Oral)** [**_paper_**](https://drive.google.com/file/d/1crIH8Ma2MA6x0YFgNxczrfSpKJ5u6Ilr/view)
 
 * **Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**  
   Wei Yang, Rui Zhong, **Yiqun Chen**, Chi Lu, Peng Jiang  
