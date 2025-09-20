@@ -53,7 +53,7 @@ If you are interested in my research or experience, please feel free to contact 
 
 * **Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**  
   **Yiqun Chen**, Lingyong Yan, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao  
-  **NeurIPS 2025** [**_paper_**](https://arxiv.org/pdf/2501.15228)
+  **NeurIPS 2025 (Acceptance Rate=24.52%)** [**_paper_**](https://arxiv.org/pdf/2501.15228)
 
 * **MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**  
   **Yiqun Chen**, Jiaxin Mao, Yi Zhang, Dehong Ma, Long Xia, Jun Fan, Daiting Shi, Zhicong Cheng, Simiu Gu, Dawei Yin  
